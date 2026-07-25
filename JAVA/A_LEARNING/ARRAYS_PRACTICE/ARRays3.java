@@ -12,10 +12,10 @@ public class ARRays3 {
         
         while(isusertyping){
             String add = "";
-            System.out.println("\033[H\033[2JWRITE ANYTHING YOU WANT OR TYPE \"exit\" TO EXIT");
+            System.out.println("\033c[2JWRITE ANYTHING YOU WANT OR TYPE \"exit\" TO EXIT");
             add = ask.nextLine();
             if(add.equalsIgnoreCase("exit")){
-                System.out.println("\033[H\033[2JThis Is What You Type All the Time:");
+                System.out.println("\033cThis Is What You Type All the Time:");
                 for(String show : storage){
                     System.out.println(show + ", ");
                 }

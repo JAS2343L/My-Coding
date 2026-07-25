@@ -4,7 +4,7 @@
 #list of dictionaries
 #input
 #loop+menu
-
+print("\033c")
 contacts = []
 
 def add_contacts():

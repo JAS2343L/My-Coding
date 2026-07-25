@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "pract",
+            "request": "launch",
+            "mainClass": "pract",
+            "projectName": "My-Coding-Projects_7e0e0860"
+        },
+        {
+            "type": "java",
+            "name": "ATM",
+            "request": "launch",
+            "mainClass": "ATM",
+            "projectName": "My-Coding-Projects_7e0e0860"
+        }
+    ]
+}

@@ -1,14 +1,6 @@
 # folders
-bin/
-.idea/
-.vscode/
-out/
-venv/
-.venv/
-**/.idea/
-PYTHON/STAR-OS/
-venv/
 JAVA/Projects/
+WEb/
 #files 
-Visual-Studio-Code.iml
+
 
