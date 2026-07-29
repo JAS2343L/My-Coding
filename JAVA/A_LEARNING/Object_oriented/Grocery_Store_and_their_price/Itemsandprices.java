@@ -1,4 +1,4 @@
-package A_LEARNING.OOPS_PRACTICE.Grocery_Store_and_their_price;
+package A_LEARNING.Object_oriented.Grocery_Store_and_their_price;
 
 public class Itemsandprices {
     String items;

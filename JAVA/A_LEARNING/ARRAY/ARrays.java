@@ -1,4 +1,4 @@
-package A_LEARNING.ARRAYS_PRACTICE;
+package A_LEARNING.ARRAY;
 public class ARrays {
     public static void main(String[] args) {
         int[][] dot = {
