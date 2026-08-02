@@ -3,7 +3,7 @@
 int main() {
     int a;
 
-    for (a = 1; a <= 999999; a*=3) {
+    for (a = 1; a <= 999999; a++) {
         printf("%d\n", a);
     }
     return 0;

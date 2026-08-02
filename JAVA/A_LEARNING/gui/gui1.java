@@ -1,7 +1,7 @@
-package A_LEARNING.GUI;
+//package A_LEARNING.GUI;
 import javax.swing.JOptionPane;
 
-public class GUI {
+public class gui1 {
     public static void main(String[] args){
         String a = JOptionPane.showInputDialog("What Is Your Name ?");
         //JOptionPane.showMessageDialog(null, "Hello "+a);

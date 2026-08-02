@@ -1,9 +1,9 @@
-package A_LEARNING.ARRAYS_PRACTICE;
+//package A_LEARNING.ARRAYS_PRACTICE;
 import java.util.*;
 
-public class ARRays3 {
+public class Arrays3 {
 
-    ARRays3(){
+    Arrays3(){
 
         Scanner ask = new Scanner(System.in);
         ArrayList<String> storage = new ArrayList<>();
@@ -31,6 +31,6 @@ public class ARRays3 {
     }
 
     public static void main(String[] args) {
-        new ARRays3();
+        new Arrays3();
     }
 }

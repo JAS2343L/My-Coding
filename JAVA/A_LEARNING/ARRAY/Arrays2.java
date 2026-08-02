@@ -1,9 +1,9 @@
-package A_LEARNING.ARRAYS_PRACTICE;
+//package A_LEARNING.ARRAYS_PRACTICE;
 import java.util.ArrayList;
 import java.util.Scanner;
 
 
-public class ARRays2 {
+public class Arrays2 {
     public static void main(String[] args) {
 
         String cl = "\033[H\033[2J";

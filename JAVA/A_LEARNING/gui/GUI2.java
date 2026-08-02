@@ -1,4 +1,3 @@
-package A_LEARNING.GUI;
 import javax.swing.*;
 import java.awt.event.*;
 public class GUI2 {

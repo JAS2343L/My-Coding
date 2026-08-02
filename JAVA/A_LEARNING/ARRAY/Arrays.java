@@ -1,5 +1,5 @@
-package A_LEARNING.ARRAY;
-public class ARrays {
+
+public class Arrays {
     public static void main(String[] args) {
         int[][] dot = {
             {1,57}, {2,78}, {3,35}, {4, 10},

@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Project3_fileio",
+            "request": "launch",
+            "mainClass": "Project3_fileio",
+            "projectName": "My-Coding-Projects_7e0e0860"
+        },
+        {
+            "type": "java",
+            "name": "gui1",
+            "request": "launch",
+            "mainClass": "gui1",
+            "projectName": "My-Coding-Projects_7e0e0860"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "My-Coding-Projects_7e0e0860"
+        },
+        {
+            "type": "java",
+            "name": "ARrays",
+            "request": "launch",
+            "mainClass": "ARrays",
+            "projectName": "My-Coding-Projects_7e0e0860"
+        },
+        {
+            "type": "java",
             "name": "pract",
             "request": "launch",
             "mainClass": "pract",
