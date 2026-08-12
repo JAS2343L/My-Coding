@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LOGS",
+            "request": "launch",
+            "mainClass": "Projects.Project_LOGS.LOGS",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "GUI3_CALCULATOR_ADVANCED",
+            "request": "launch",
+            "mainClass": "Projects.Project_in_GUI.GUI3_CALCULATOR_ADVANCED",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "GUI2_Calculator",
+            "request": "launch",
+            "mainClass": "Projects.Project_in_GUI.GUI2_Calculator",
+            "projectName": ""
+        },
+        {
+            "type": "java",
             "name": "Project3_fileio",
             "request": "launch",
             "mainClass": "Project3_fileio",
